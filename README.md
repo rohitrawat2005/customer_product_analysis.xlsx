@@ -25,7 +25,7 @@ This project focuses on analyzing customer and product performance using a globa
 ### 👥 Top 10 Customers by Sales
 This chart highlights the customers contributing the highest revenue.
 
-![Top 10 Customers](top_10_customers.png)
+![Top 10 Customers](https://github.com/rohitrawat2005/customer_product_analysis.xlsx/blob/main/Screenshot%202026-02-08%20145818.png)
 
 ---
 
