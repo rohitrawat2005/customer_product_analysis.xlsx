@@ -1,25 +1,64 @@
 # Customer & Product Performance Analysis (Google Sheets)
 
-## Overview
-This project analyzes customer and product performance using a global sales dataset. The objective was to identify top revenue-generating customers and products, and evaluate order value metrics using pivot tables.
+## 📌 Overview
+This project focuses on analyzing customer and product performance using a global sales dataset. The goal was to identify key revenue contributors and evaluate order value metrics using pivot-table-based analysis.
 
-## Tools Used
+---
+
+## 🛠 Tools Used
 - Google Sheets
 - Pivot Tables
 - Charts (Bar & Column)
 
-## Key Analysis
+---
+
+## 📊 Key Analysis Performed
 - Top 10 customers by total sales
 - Top product lines by revenue
 - Overall Average Order Value (AOV)
 - Country-wise Average Order Value
 
-## Insights
-- Revenue is concentrated among a small set of high-value customers.
-- Certain product lines drive a major share of total sales.
-- Countries differ significantly in average order value, indicating different purchasing behaviors.
+---
 
-## Learnings
-- Performed customer and product-level aggregation
-- Calculated business metrics like AOV
-- Created insight-driven visualizations for decision-making
+## 📈 Outputs & Visualizations
+
+### 👥 Top 10 Customers by Sales
+This chart highlights the customers contributing the highest revenue.
+
+![Top 10 Customers](top_10_customers.png)
+
+---
+
+### 📦 Top Product Lines by Sales
+Shows which product categories generate the most revenue.
+
+![Top Products](top_products.png)
+
+---
+
+### 🌍 Country-wise Average Order Value (AOV)
+Compares the average value per order across different countries.
+
+![Country-wise AOV](country_aov.png)
+
+---
+
+## 🧠 Insights
+- Revenue is concentrated among a small group of high-value customers.
+- Certain product lines consistently outperform others.
+- Some countries place fewer but higher-value orders.
+
+---
+
+## 📁 Files Included
+- `customer_product_analysis.xlsx`
+- `top_10_customers.png`
+- `top_products.png`
+- `country_aov.png`
+
+---
+
+## 📚 Learnings
+- Performed customer- and product-level aggregation
+- Calculated business metrics like Average Order Value (AOV)
+- Converted raw data into actionable insights
