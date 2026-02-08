@@ -32,7 +32,7 @@ This chart highlights the customers contributing the highest revenue.
 ### 📦 Top Product Lines by Sales
 Shows which product categories generate the most revenue.
 
-![Top Products](top_products.png)
+![Top Products](https://github.com/rohitrawat2005/customer_product_analysis.xlsx/blob/main/Screenshot%202026-02-08%20153351.png)
 
 ---
 
