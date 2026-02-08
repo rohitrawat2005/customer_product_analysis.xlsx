@@ -39,7 +39,7 @@ Shows which product categories generate the most revenue.
 ### 🌍 Country-wise Average Order Value (AOV)
 Compares the average value per order across different countries.
 
-![Country-wise AOV](country_aov.png)
+![Country-wise AOV](https://github.com/rohitrawat2005/customer_product_analysis.xlsx/blob/main/Screenshot%202026-02-08%20160022.png)
 
 ---
 
